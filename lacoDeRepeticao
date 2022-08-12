@@ -1,0 +1,27 @@
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+         
+            Console.WriteLine("Escreva um numero ai meu bom! ");
+            int a = int.Parse(Console.ReadLine());
+            
+            for (int i = 0; i <= a; i++) {
+                Console.WriteLine(i);
+            }
+
+            Console.WriteLine(" ");
+
+            for(int i = a; i >= 0; i--) {
+                Console.WriteLine(i);
+            }
+                        
+            Console.WriteLine("fim");
+            Console.ReadLine();
+        }
+    }
+}
