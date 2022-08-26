@@ -1,0 +1,8 @@
+C:\Users\nycol\source\repos\Telecena\Telecena\bin\Debug\Telecena.exe.config
+C:\Users\nycol\source\repos\Telecena\Telecena\bin\Debug\Telecena.exe
+C:\Users\nycol\source\repos\Telecena\Telecena\bin\Debug\Telecena.pdb
+C:\Users\nycol\source\repos\Telecena\Telecena\obj\Debug\Telecena.csproj.AssemblyReference.cache
+C:\Users\nycol\source\repos\Telecena\Telecena\obj\Debug\Telecena.csproj.SuggestedBindingRedirects.cache
+C:\Users\nycol\source\repos\Telecena\Telecena\obj\Debug\Telecena.csproj.CoreCompileInputs.cache
+C:\Users\nycol\source\repos\Telecena\Telecena\obj\Debug\Telecena.exe
+C:\Users\nycol\source\repos\Telecena\Telecena\obj\Debug\Telecena.pdb
